@@ -15,3 +15,10 @@ for i in range(1,a//b):
 print()
 
 print(a+b/3-4*12) # 13 - 48 = -35 
+
+print((((a+b)/3)-4)*12)
+
+d = a + b
+e = d/3
+f = e-4
+print(f*12)
