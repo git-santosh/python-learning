@@ -21,4 +21,10 @@ print((((a+b)/3)-4)*12)
 d = a + b
 e = d/3
 f = e-4
-print(f*12)
+print('Expression:\t','((((12+3)/3)-4)*12) = ',f*12)
+
+p =8
+q =2
+
+# ** exponent operator
+print( 'Exponent:\t ' , p , '² = ' , p ** q , sep = '' )

@@ -7,4 +7,4 @@ print(greeting + ' '+_myName)
 
 #print('My age is '+age)
 
-print(n1+' '+ n2+' '+n3)
+print(n1, n2 , n3)
